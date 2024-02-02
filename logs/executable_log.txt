@@ -1,2 +1,2 @@
-PS C:\Users\CGLam\OneDrive - Northwestern University\MSDS 431\Wk5_Assignment\web-scraper-go> ./web-scraper -input target_html.txt -output output.jl  
+PS C:\Users\...\web-scraper-go> ./web-scraper -input target_html.txt -output output.jl  
 JSON saved as: output.jl
