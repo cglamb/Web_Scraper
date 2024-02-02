@@ -26,7 +26,7 @@ If the terminal's current directory is the directory containing the executable, 
 ## Explanation of Files
 
 - `output.jl`: JSON output containing scraped information.
-- `scraper.go`: Golang code containing application code.
+- `scraper.go`: Codebase
 - `scaper_test.go`: Testing for functions in `scraper.go`.
 - `target_html.txt`: Text containing URLs meant to be read in.
 - `web-scraper.ext`: Executable web scraping program.
