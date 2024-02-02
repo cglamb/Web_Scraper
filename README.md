@@ -16,7 +16,7 @@ The JSON key is the URL addresses of each site being visited. The JSON also cont
 - `text`: This is the text from the body of the wiki page.
 - `main_headers`: These are the main header names within the wiki page.
 - `sub_headers`: Sub-headers under main headers.
-- `bullets`: Text contained in bullets on the page. Some wiki pages have bullets, which the HTML code stores differently from the main body text.
+- `bullets`: Text contained in bullets on the page. Some wiki pages have bullets, which the HTML code stores differently from the main body text.  This captures that text.
 - `links`: These are links referenced in the body of the wiki page.
 
 ## Running the Command Line Application
