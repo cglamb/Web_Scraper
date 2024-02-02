@@ -11,7 +11,7 @@ This project develops an application that scrapes text information from Wikipedi
 
 ## Structure of the Output Data
 
-The JSON keys are the URL addresses of each site being visited. The JSON also contains values for the following data elements:
+The JSON key is the URL addresses of each site being visited. The JSON also contains values for the following data elements:
 
 - `text`: This is the text from the body of the wiki page.
 - `main_headers`: These are the main header names within the wiki page.
