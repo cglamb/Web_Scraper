@@ -21,7 +21,7 @@ The JSON key is the URL addresses of each site being visited. The JSON also cont
 
 ## Running the Command Line Application
 
-If the terminal's current directory is the directory containing the executable, the program can be run from the command line using the following command: `./web-scraper -input target_html.txt -output output.jl`. The `-output` can be changed to the desired location and filename for the output text. The default location is the current directory, and the default name is `output.txt`. The `-input` can be changed to the location and name of the CSV file being read. The default location is the current directory, and the default file name is `target_html.txt`.
+If the terminal's current directory is the directory containing the executable, the program can be run from the command line using the following command: `./web-scraper -input target_html.txt -output output.jl`. The `-output` can be changed to the desired location and filename for the output text. The default location is the current directory, and the default name is `output.jl`. The `-input` can be changed to the location and name of the CSV file being read. The default location is the current directory, and the default file name is `target_html.txt`.
 
 ## Explanation of Files
 
