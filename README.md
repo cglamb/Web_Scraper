@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This project develops an application that scrapes text information off Wikipedia URLs. The application is written in Go(lang) and relies on the Colly Framework. URLs to be scraped are passed to the application via a `.txt` file (see `target_html.txt`). An HTML request to that URL is made via Colly, and data is parsed using Colly's `OnHTML` function. The end result is a JSON (`.jl`) file output.
+This project develops an application that scrapes text information from Wikipedia URLs. The application is written in Go(lang) and relies on the Colly Framework. URLs to be scraped are passed to the application via a `.txt` file (see `target_html.txt`). An HTML request to that URL is made via Colly, and data is parsed using Colly's `OnHTML` function. The end result is a JSON (`.jl`) file output.
 
 ## Structure of the Output Data
 
