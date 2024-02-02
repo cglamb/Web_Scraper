@@ -1,9 +1,9 @@
 # Go-Based Web Scraping using the Colly Framework
 
-Author: Charles Lamb
-Contact Info: charlamb@gmail.com
-GitHub address for this project: [https://github.com/cglamb/Web_Scraper](https://github.com/cglamb/Web_Scraper)
-Git Clone command for the repository: `git clone https://github.com/cglamb/Web_Scraper.git`
+- Author: Charles Lamb
+- Contact Info: charlamb@gmail.com
+- GitHub address for this project: [https://github.com/cglamb/Web_Scraper](https://github.com/cglamb/Web_Scraper)
+- Git Clone command for the repository: `git clone https://github.com/cglamb/Web_Scraper.git`
 
 ## Introduction
 
